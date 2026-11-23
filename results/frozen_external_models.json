@@ -1,0 +1,384 @@
+{
+  "timestamp_utc": "2026-11-23T14:53:59.948638+00:00",
+  "config_sha256": "311f0d35fe1b4821bfe3985de61f61dbeb9d846e5ad5920f89eb96142ab99058",
+  "models": [
+    {
+      "model": "LR",
+      "selector": "DeltaBeta",
+      "k": 30,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9841269841269842,
+      "model_search_fit_seconds": 0.019053939000059472,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "DeltaBeta",
+      "k": 30,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9920634920634921,
+      "model_search_fit_seconds": 0.019501577000028192,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "DeltaBeta",
+      "k": 30,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.0961859379999623,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "DeltaBeta",
+      "k": 100,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.02187520500001483,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "DeltaBeta",
+      "k": 100,
+      "best_parameters": {
+        "C": 0.1
+      },
+      "best_inner_ba": 0.9761904761904762,
+      "model_search_fit_seconds": 0.05810470300002635,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "DeltaBeta",
+      "k": 100,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.1438446550000663,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "DeltaBeta",
+      "k": 500,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.042505679999976564,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "DeltaBeta",
+      "k": 500,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9761904761904763,
+      "model_search_fit_seconds": 0.1327758069999163,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "DeltaBeta",
+      "k": 500,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 3,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.1776778920000197,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.004876867999882961,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "MI",
+      "k": 30,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.021654986999919856,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "MI",
+      "k": 30,
+      "best_parameters": {
+        "C": 0.1
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.021296083999914117,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "MI",
+      "k": 30,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.0900060570002097,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "MI",
+      "k": 100,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.02562009799999032,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "MI",
+      "k": 100,
+      "best_parameters": {
+        "C": 0.1
+      },
+      "best_inner_ba": 0.9682539682539683,
+      "model_search_fit_seconds": 0.0717101539999021,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "MI",
+      "k": 100,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.2489874379998582,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "MI",
+      "k": 500,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9603174603174603,
+      "model_search_fit_seconds": 0.05318137799986289,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "MI",
+      "k": 500,
+      "best_parameters": {
+        "C": 0.1
+      },
+      "best_inner_ba": 0.9523809523809524,
+      "model_search_fit_seconds": 0.12088135899989538,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "MI",
+      "k": 500,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.1588947370000824,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 21.474734463999994,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "L2coef",
+      "k": 30,
+      "best_parameters": {
+        "C": 10
+      },
+      "best_inner_ba": 0.9527417027417027,
+      "model_search_fit_seconds": 0.020177504000002955,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "L2coef",
+      "k": 30,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9841269841269842,
+      "model_search_fit_seconds": 0.02010604199995214,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "L2coef",
+      "k": 30,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 0.9309523809523809,
+      "model_search_fit_seconds": 1.0351524519999202,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "L2coef",
+      "k": 100,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9368686868686869,
+      "model_search_fit_seconds": 0.04195719600011216,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "L2coef",
+      "k": 100,
+      "best_parameters": {
+        "C": 1
+      },
+      "best_inner_ba": 0.9527417027417027,
+      "model_search_fit_seconds": 0.020192962000010084,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "L2coef",
+      "k": 100,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 0.9722222222222223,
+      "model_search_fit_seconds": 0.991326713999797,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LR",
+      "selector": "L2coef",
+      "k": 500,
+      "best_parameters": {
+        "C": 0.1
+      },
+      "best_inner_ba": 0.9065656565656566,
+      "model_search_fit_seconds": 0.04096794800011594,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "LinearSVM",
+      "selector": "L2coef",
+      "k": 500,
+      "best_parameters": {
+        "C": 0.01
+      },
+      "best_inner_ba": 0.9065656565656566,
+      "model_search_fit_seconds": 0.030819550999922285,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    },
+    {
+      "model": "RF",
+      "selector": "L2coef",
+      "k": 500,
+      "best_parameters": {
+        "max_depth": null,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      },
+      "best_inner_ba": 1.0,
+      "model_search_fit_seconds": 1.0827157470000657,
+      "shared_preprocessing_seconds": 9.963846483999987,
+      "shared_selection_seconds": 0.1168015280002237,
+      "whole_process_peak_rss_mb": 754.984375
+    }
+  ]
+}

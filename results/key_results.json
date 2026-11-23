@@ -1,0 +1,361 @@
+{
+  "primary_reference": [
+    {
+      "model": "LR",
+      "selector": "DeltaBeta",
+      "k": 100,
+      "balanced_accuracy_mean": 0.9685897435897436,
+      "balanced_accuracy_std": 0.0324019280925643,
+      "roc_auc_mean": 1.0,
+      "roc_auc_std": 0.0,
+      "average_precision_mean": 1.0,
+      "average_precision_std": 0.0,
+      "sensitivity_mean": 0.9371794871794872,
+      "sensitivity_std": 0.0648038561851287,
+      "specificity_mean": 1.0,
+      "specificity_std": 0.0,
+      "f1_mean": 0.9666376811594204,
+      "f1_std": 0.0348911952381396,
+      "attributed_total_seconds_mean": 7.158923319400083,
+      "attributed_total_seconds_std": 0.4614406951895907,
+      "model_search_fit_seconds_mean": 0.0241142176000039,
+      "model_search_fit_seconds_std": 0.0046342924914955,
+      "shared_selection_seconds_mean": 0.0040079201999787,
+      "shared_selection_seconds_std": 0.0003288791508196,
+      "whole_process_peak_rss_mb_mean": 803.5453125,
+      "whole_process_peak_rss_mb_std": 2.4521569546969624,
+      "oof_balanced_accuracy": 0.96875,
+      "external_balanced_accuracy": 0.9417344173441734,
+      "external_roc_auc": 0.9786585365853658,
+      "external_average_precision": 0.9904721579957878,
+      "external_sensitivity": 0.9390243902439024,
+      "external_specificity": 0.9444444444444444,
+      "external_f1": 0.9565217391304348,
+      "external_attributed_total_seconds": 9.990598556999885,
+      "external_model_search_fit_seconds": 0.0218752050000148,
+      "external_shared_selection_seconds": 0.0048768679998829,
+      "external_whole_process_peak_rss_mb": 754.984375,
+      "external_tn": 34,
+      "external_fp": 2,
+      "external_fn": 5,
+      "external_tp": 77,
+      "jaccard_mean": 0.6489408273741486,
+      "jaccard_fold_sd_descriptive": 0.0282266050325146
+    },
+    {
+      "model": "LR",
+      "selector": "L2coef",
+      "k": 100,
+      "balanced_accuracy_mean": 0.953205128205128,
+      "balanced_accuracy_std": 0.0500451801135431,
+      "roc_auc_mean": 1.0,
+      "roc_auc_std": 0.0,
+      "average_precision_mean": 1.0,
+      "average_precision_std": 0.0,
+      "sensitivity_mean": 0.9064102564102564,
+      "sensitivity_std": 0.1000903602270863,
+      "specificity_mean": 1.0,
+      "specificity_std": 0.0,
+      "f1_mean": 0.9485507246376812,
+      "f1_std": 0.0561535761335054,
+      "attributed_total_seconds_mean": 7.247165360000167,
+      "attributed_total_seconds_std": 0.4581344311020972,
+      "model_search_fit_seconds_mean": 0.0241557135999983,
+      "model_search_fit_seconds_std": 0.0050456487698741,
+      "shared_selection_seconds_mean": 0.0922084648000691,
+      "shared_selection_seconds_std": 0.0050883788486562,
+      "whole_process_peak_rss_mb_mean": 803.54921875,
+      "whole_process_peak_rss_mb_std": 2.446464447617637,
+      "oof_balanced_accuracy": 0.953125,
+      "external_balanced_accuracy": 0.9061653116531164,
+      "external_roc_auc": 0.9698509485094852,
+      "external_average_precision": 0.9865310268650216,
+      "external_sensitivity": 0.951219512195122,
+      "external_specificity": 0.8611111111111112,
+      "external_f1": 0.9454545454545454,
+      "external_attributed_total_seconds": 10.122605208000325,
+      "external_model_search_fit_seconds": 0.0419571960001121,
+      "external_shared_selection_seconds": 0.1168015280002237,
+      "external_whole_process_peak_rss_mb": 754.984375,
+      "external_tn": 31,
+      "external_fp": 5,
+      "external_fn": 4,
+      "external_tp": 78,
+      "jaccard_mean": 0.3218231111762333,
+      "jaccard_fold_sd_descriptive": 0.0505562874419807
+    },
+    {
+      "model": "LR",
+      "selector": "MI",
+      "k": 100,
+      "balanced_accuracy_mean": 0.9839743589743588,
+      "balanced_accuracy_std": 0.0219732519243623,
+      "roc_auc_mean": 1.0,
+      "roc_auc_std": 0.0,
+      "average_precision_mean": 1.0,
+      "average_precision_std": 0.0,
+      "sensitivity_mean": 0.9679487179487178,
+      "sensitivity_std": 0.0439465038487246,
+      "specificity_mean": 1.0,
+      "specificity_std": 0.0,
+      "f1_mean": 0.9833043478260868,
+      "f1_std": 0.0228945144121934,
+      "attributed_total_seconds_mean": 25.891735337400178,
+      "attributed_total_seconds_std": 1.265714858134826,
+      "model_search_fit_seconds_mean": 0.0206555824000361,
+      "model_search_fit_seconds_std": 0.0019646840045821,
+      "shared_selection_seconds_mean": 18.74027857340004,
+      "shared_selection_seconds_std": 1.0252928137203603,
+      "whole_process_peak_rss_mb_mean": 803.54921875,
+      "whole_process_peak_rss_mb_std": 2.446464447617637,
+      "oof_balanced_accuracy": 0.984375,
+      "external_balanced_accuracy": 0.9478319783197832,
+      "external_roc_auc": 0.9749322493224932,
+      "external_average_precision": 0.9882312117448562,
+      "external_sensitivity": 0.951219512195122,
+      "external_specificity": 0.9444444444444444,
+      "external_f1": 0.9629629629629628,
+      "external_attributed_total_seconds": 31.46420104599997,
+      "external_model_search_fit_seconds": 0.0256200979999903,
+      "external_shared_selection_seconds": 21.474734463999997,
+      "external_whole_process_peak_rss_mb": 754.984375,
+      "external_tn": 34,
+      "external_fp": 2,
+      "external_fn": 4,
+      "external_tp": 78,
+      "jaccard_mean": 0.3047126004204291,
+      "jaccard_fold_sd_descriptive": 0.0260238535247041
+    }
+  ],
+  "best_internal_configuration_descriptive": {
+    "model": "RF",
+    "selector": "DeltaBeta",
+    "k": 100,
+    "balanced_accuracy_mean": 1.0,
+    "balanced_accuracy_std": 0.0,
+    "roc_auc_mean": 1.0,
+    "roc_auc_std": 0.0,
+    "average_precision_mean": 1.0,
+    "average_precision_std": 0.0,
+    "sensitivity_mean": 1.0,
+    "sensitivity_std": 0.0,
+    "specificity_mean": 1.0,
+    "specificity_std": 0.0,
+    "f1_mean": 1.0,
+    "f1_std": 0.0,
+    "attributed_total_seconds_mean": 8.195753083200112,
+    "attributed_total_seconds_std": 0.5223692187321262,
+    "model_search_fit_seconds_mean": 1.0609439814000323,
+    "model_search_fit_seconds_std": 0.1109170756741336,
+    "shared_selection_seconds_mean": 0.0040079201999787,
+    "shared_selection_seconds_std": 0.0003288791508196,
+    "whole_process_peak_rss_mb_mean": 803.54609375,
+    "whole_process_peak_rss_mb_std": 2.450634745680875,
+    "oof_balanced_accuracy": 1.0,
+    "external_balanced_accuracy": 0.8905826558265583,
+    "external_roc_auc": 0.9491869918699188,
+    "external_average_precision": 0.9637863734011372,
+    "external_sensitivity": 0.975609756097561,
+    "external_specificity": 0.8055555555555556,
+    "external_f1": 0.9467455621301776,
+    "external_attributed_total_seconds": 11.112568006999936,
+    "external_model_search_fit_seconds": 1.1438446550000665,
+    "external_shared_selection_seconds": 0.0048768679998829,
+    "external_whole_process_peak_rss_mb": 754.984375,
+    "external_tn": 29,
+    "external_fp": 7,
+    "external_fn": 2,
+    "external_tp": 80,
+    "jaccard_mean": 0.6489408273741486,
+    "jaccard_fold_sd_descriptive": 0.0282266050325146
+  },
+  "external_range": [
+    0.5,
+    0.9539295392953928
+  ],
+  "stability": [
+    {
+      "selector": "DeltaBeta",
+      "k": 30,
+      "jaccard_mean": 0.5955152670802448,
+      "jaccard_fold_sd_descriptive": 0.022423791187343
+    },
+    {
+      "selector": "DeltaBeta",
+      "k": 100,
+      "jaccard_mean": 0.6489408273741486,
+      "jaccard_fold_sd_descriptive": 0.0282266050325146
+    },
+    {
+      "selector": "DeltaBeta",
+      "k": 500,
+      "jaccard_mean": 0.6713265554421947,
+      "jaccard_fold_sd_descriptive": 0.0121581472596372
+    },
+    {
+      "selector": "L2coef",
+      "k": 30,
+      "jaccard_mean": 0.2676807326774825,
+      "jaccard_fold_sd_descriptive": 0.0682428660124781
+    },
+    {
+      "selector": "L2coef",
+      "k": 100,
+      "jaccard_mean": 0.3218231111762333,
+      "jaccard_fold_sd_descriptive": 0.0505562874419807
+    },
+    {
+      "selector": "L2coef",
+      "k": 500,
+      "jaccard_mean": 0.4100455822839234,
+      "jaccard_fold_sd_descriptive": 0.0285358425373316
+    },
+    {
+      "selector": "MI",
+      "k": 30,
+      "jaccard_mean": 0.3018551043156129,
+      "jaccard_fold_sd_descriptive": 0.0350888587883692
+    },
+    {
+      "selector": "MI",
+      "k": 100,
+      "jaccard_mean": 0.3047126004204291,
+      "jaccard_fold_sd_descriptive": 0.0260238535247041
+    },
+    {
+      "selector": "MI",
+      "k": 500,
+      "jaccard_mean": 0.3723856472051672,
+      "jaccard_fold_sd_descriptive": 0.0185112947070436
+    }
+  ],
+  "rank_transfer": {
+    "overall": {
+      "n_configurations": 27,
+      "spearman_rho": -0.18096701841848228
+    },
+    "by_k": [
+      {
+        "k": 30,
+        "n_configurations": 9,
+        "spearman_rho": 0.3067226890756303
+      },
+      {
+        "k": 100,
+        "n_configurations": 9,
+        "spearman_rho": -0.33194194295349533
+      },
+      {
+        "k": 500,
+        "n_configurations": 9,
+        "spearman_rho": -0.619252282479235
+      }
+    ],
+    "interpretation": "Descriptive Spearman correlation including tied ranks; BA rounded to12 decimal places only for rank ties to remove floating-point noise, not for reported metrics. Configurations share samples and are dependent; no p-values or independent-method inferential claims."
+  },
+  "predeclared_contrasts": {
+    "replicates_requested": 2000,
+    "replicates_valid": 2000,
+    "n_inferred_clusters": 84,
+    "method": "Paired cluster percentile bootstrap of fixed external predictions. Clusters inferred conservatively from title country/histology/numeric ID; unresolved names remain separate. Conditional on fitted models and observed cohort; does not include retraining/model-selection uncertainty. Two predeclared exploratory contrasts, no multiplicity-adjusted hypothesis claims.",
+    "comparisons": [
+      {
+        "model": "LR",
+        "k": 100,
+        "selector": "MI",
+        "baseline": "DeltaBeta",
+        "metric": "balanced_accuracy",
+        "difference": 0.0060975609756097615,
+        "ci95_low": 0.0,
+        "ci95_high": 0.01948051948051943
+      },
+      {
+        "model": "LR",
+        "k": 100,
+        "selector": "L2coef",
+        "baseline": "DeltaBeta",
+        "metric": "balanced_accuracy",
+        "difference": -0.03556910569105687,
+        "ci95_low": -0.08509978991596641,
+        "ci95_high": 0.008683667480295788
+      }
+    ],
+    "selector_ci95": {
+      "DeltaBeta": {
+        "point": 0.9417344173441734,
+        "low": 0.8923730794250305,
+        "high": 0.9814814814814814
+      },
+      "MI": {
+        "point": 0.9478319783197832,
+        "low": 0.8996194494690163,
+        "high": 0.9870171495171495
+      },
+      "L2coef": {
+        "point": 0.9061653116531165,
+        "low": 0.8426901211111404,
+        "high": 0.9588758116883117
+      }
+    }
+  },
+  "counts": {
+    "raw_cohorts": [
+      {
+        "dataset": "GSE48684",
+        "n_samples": 147,
+        "n_probes": 485577,
+        "missing_cells": 94512,
+        "missing_fraction": 0.0013240717239700482,
+        "beta_min": 0.0,
+        "beta_max": 0.9958090782165527,
+        "duplicate_profiles": 0,
+        "raw_bytes": 296204043,
+        "raw_sha256": "21768fdeceede702c471cdbafd98fbdd04e88c55188a824f0587156329355e37",
+        "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48684/matrix/GSE48684_series_matrix.txt.gz?download=1"
+      },
+      {
+        "dataset": "GSE68060",
+        "n_samples": 120,
+        "n_probes": 472139,
+        "missing_cells": 479733,
+        "missing_fraction": 0.008467368719804972,
+        "beta_min": 1.0953064702334814e-05,
+        "beta_max": 0.9992712736129761,
+        "duplicate_profiles": 0,
+        "raw_bytes": 462294792,
+        "raw_sha256": "06a3f5014968ee016dfaa170afa51aec96da35bf1e6feeea9df8c4af71a8adf8",
+        "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68060/matrix/GSE68060_series_matrix.txt.gz?download=true"
+      }
+    ],
+    "common_cg_probes": 469160,
+    "development_samples": 81,
+    "development_cancer": 64,
+    "development_healthy_normal": 17,
+    "external_samples": 118,
+    "external_cancer": 82,
+    "external_normal": 36,
+    "external_inferred_clusters": 84,
+    "excluded_IVD": 2,
+    "exploratory_counts": {
+      "adenoma": 42,
+      "normal-C": 24
+    },
+    "external_unresolved_titles": [
+      "ESSMN"
+    ],
+    "grouping_limitation": "GSE48684 cancer and normal-C equal title numbers are not donor pairs (sex discordance); normal-C excluded from training. Development specimen labels are unique, true donor identity unverified. External groups are conservative title-derived heuristic, not confirmed UUIDs.",
+    "development_sex_counts": {
+      "Female": {
+        "cancer": 41,
+        "normal-H": 6
+      },
+      "Male": {
+        "cancer": 23,
+        "normal-H": 11
+      }
+    },
+    "source_preprocessing": "GSE48684 submitted beta values previously SWAN normalized and ComBat adjusted across source study. Our train-only guarantees concern downstream steps only; original preprocessing was not refit within our CV. GSE68060 submitted GenomeStudio beta values.",
+    "probe_annotation_limitation": "Only cg-prefixed shared probe IDs retained; no sex-chromosome, SNP-overlap or cross-reactive probe filtering; no gene annotation claim.",
+    "platform": "Illumina HumanMethylation450 BeadChip; processed submitted beta matrices; no additional joint normalization or batch correction; no IDAT-level QC."
+  }
+}

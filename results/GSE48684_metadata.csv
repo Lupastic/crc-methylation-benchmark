@@ -1,0 +1,148 @@
+title,sample_id,tissue,colon region,disease status,gender,Stage,dataset,status,y,group_id,role
+Genomic DNA from normal individual 1,GSM1183439,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_1,development
+Genomic DNA from normal individual 2,GSM1183440,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_2,development
+Genomic DNA from normal individual 3,GSM1183441,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_3,development
+Genomic DNA from normal individual 4,GSM1183442,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_4,development
+Genomic DNA from normal individual 5,GSM1183443,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_5,development
+Genomic DNA from normal individual 6,GSM1183444,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_6,development
+Genomic DNA from adenoma patient 1,GSM1183445,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_1,exploratory
+Genomic DNA from adenoma patient 2,GSM1183446,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_2,exploratory
+Genomic DNA from adenoma patient 3,GSM1183447,colorectal mucosa,Right,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_3,exploratory
+Genomic DNA from adenoma patient 4,GSM1183448,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_4,exploratory
+Genomic DNA from adenoma patient 5,GSM1183449,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_5,exploratory
+Genomic DNA from adenoma patient 6,GSM1183450,colorectal mucosa,Retum,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_6,exploratory
+Genomic DNA from adenoma patient 7,GSM1183451,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_7,exploratory
+Genomic DNA from adenoma patient 8,GSM1183452,colorectal mucosa,Left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_8,exploratory
+Genomic DNA from CRC patients 1,GSM1183453,colorectal mucosa,Distal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_1,development
+Genomic DNA from CRC patients 2,GSM1183454,colorectal mucosa,Distal,cancer,Male,I,GSE48684,cancer,1,GSE48684_cancer_2,development
+Genomic DNA from CRC patients 3,GSM1183455,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_3,development
+Genomic DNA from CRC patients 4,GSM1183456,colorectal mucosa,Transverse,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_4,development
+Genomic DNA from CRC patients 5,GSM1183457,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_5,development
+Genomic DNA from CRC patients 6,GSM1183458,colorectal mucosa,Proximal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_6,development
+Genomic DNA from CRC patients 7,GSM1183459,colorectal mucosa,Transverse,cancer,Male,II,GSE48684,cancer,1,GSE48684_cancer_7,development
+Genomic DNA from CRC patients 8,GSM1183460,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_8,development
+Genomic DNA from CRC patients 9,GSM1183461,colorectal mucosa,Distal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_9,development
+Genomic DNA from CRC patients 10,GSM1183462,colorectal mucosa,Proximal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_10,development
+Genomic DNA from CRC patients 11,GSM1183463,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_11,development
+Genomic DNA from CRC patients 12,GSM1183464,colorectal mucosa,Rectum,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_12,development
+Genomic DNA from CRC patients 13,GSM1183465,colorectal mucosa,Proximal,cancer,Male,II,GSE48684,cancer,1,GSE48684_cancer_13,development
+Genomic DNA from CRC patients 14,GSM1183466,colorectal mucosa,Proximal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_14,development
+Genomic DNA from normal individual 7,GSM1183467,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_7,development
+Genomic DNA from normal individual 8,GSM1183468,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_8,development
+Genomic DNA from normal individual 9,GSM1183469,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_9,development
+Genomic DNA from normal individual 10,GSM1183470,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_10,development
+Genomic DNA from normal individual 11,GSM1183471,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_11,development
+Genomic DNA from normal individual 12,GSM1183472,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_12,development
+Genomic DNA from normal individual 13,GSM1183473,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_13,development
+Genomic DNA from normal individual 14,GSM1183474,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_14,development
+Genomic DNA from normal individual 15,GSM1183475,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_15,development
+Genomic DNA from normal individual 16,GSM1183476,colorectal mucosa,colon,normal-H,Male,,GSE48684,normal-H,0,GSE48684_normal-H_16,development
+Genomic DNA from normal individual 17,GSM1183477,colorectal mucosa,colon,normal-H,Female,,GSE48684,normal-H,0,GSE48684_normal-H_17,development
+Genomic DNA of normal colon sample from CRC patient 1,GSM1183478,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_1,exploratory
+Genomic DNA of normal colon sample from CRC patient 2,GSM1183479,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_2,exploratory
+Genomic DNA of normal colon sample from CRC patient 3,GSM1183480,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_3,exploratory
+Genomic DNA of normal colon sample from CRC patient 4,GSM1183481,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_4,exploratory
+Genomic DNA of normal colon sample from CRC patient 5,GSM1183482,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_5,exploratory
+Genomic DNA of normal colon sample from CRC patient 6,GSM1183483,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_6,exploratory
+Genomic DNA of normal colon sample from CRC patient 7,GSM1183484,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_7,exploratory
+Genomic DNA of normal colon sample from CRC patient 8,GSM1183485,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_8,exploratory
+Genomic DNA of normal colon sample from CRC patient 9,GSM1183486,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_9,exploratory
+Genomic DNA of normal colon sample from CRC patient 10,GSM1183487,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_10,exploratory
+Genomic DNA of normal colon sample from CRC patient 11,GSM1183488,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_11,exploratory
+Genomic DNA of normal colon sample from CRC patient 12,GSM1183489,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_12,exploratory
+Genomic DNA of normal colon sample from CRC patient 13,GSM1183490,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_13,exploratory
+Genomic DNA of normal colon sample from CRC patient 14,GSM1183491,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_14,exploratory
+Genomic DNA of normal colon sample from CRC patient 15,GSM1183492,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_15,exploratory
+Genomic DNA of normal colon sample from CRC patient 16,GSM1183493,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_16,exploratory
+Genomic DNA of normal colon sample from CRC patient 17,GSM1183494,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_17,exploratory
+Genomic DNA of normal colon sample from CRC patient 18,GSM1183495,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_18,exploratory
+Genomic DNA of normal colon sample from CRC patient 19,GSM1183496,colorectal mucosa,colon,normal-C,Male,,GSE48684,normal-C,0,GSE48684_normal-C_19,exploratory
+Genomic DNA of normal colon sample from CRC patient 20,GSM1183497,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_20,exploratory
+Genomic DNA of normal colon sample from CRC patient 21,GSM1183498,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_21,exploratory
+Genomic DNA of normal colon sample from CRC patient 22,GSM1183499,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_22,exploratory
+Genomic DNA of normal colon sample from CRC patient 23,GSM1183500,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_23,exploratory
+Genomic DNA of normal colon sample from CRC patient 24,GSM1183501,colorectal mucosa,colon,normal-C,Female,,GSE48684,normal-C,0,GSE48684_normal-C_24,exploratory
+Genomic DNA from adenoma patient 9,GSM1183502,colorectal mucosa,Left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_9,exploratory
+Genomic DNA from adenoma patient 10,GSM1183503,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_10,exploratory
+Genomic DNA from adenoma patient 11,GSM1183504,colorectal mucosa,Left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_11,exploratory
+Genomic DNA from adenoma patient 12,GSM1183505,colorectal mucosa,Left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_12,exploratory
+Genomic DNA from adenoma patient 13,GSM1183506,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_13,exploratory
+Genomic DNA from adenoma patient 14,GSM1183507,colorectal mucosa,Right,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_14,exploratory
+Genomic DNA from adenoma patient 15,GSM1183508,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_15,exploratory
+Genomic DNA from adenoma patient 16,GSM1183509,colorectal mucosa,Right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_16,exploratory
+Genomic DNA from adenoma patient 17,GSM1183510,colorectal mucosa,Right,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_17,exploratory
+Genomic DNA from adenoma patient 18,GSM1183511,colorectal mucosa,Left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_18,exploratory
+Genomic DNA from CRC patients 15,GSM1183512,colorectal mucosa,Distal,cancer,Female,I,GSE48684,cancer,1,GSE48684_cancer_15,development
+Genomic DNA from CRC patients 16,GSM1183513,colorectal mucosa,Rectum,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_16,development
+Genomic DNA from CRC patients 17,GSM1183514,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_17,development
+Genomic DNA from CRC patients 18,GSM1183515,colorectal mucosa,Distal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_18,development
+Genomic DNA from CRC patients 19,GSM1183516,colorectal mucosa,Distal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_19,development
+Genomic DNA from CRC patients 20,GSM1183517,colorectal mucosa,Proximal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_20,development
+Genomic DNA from CRC patients 21,GSM1183518,colorectal mucosa,Distal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_21,development
+Genomic DNA from CRC patients 22,GSM1183519,colorectal mucosa,Unknown,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_22,development
+Genomic DNA from CRC patients 23,GSM1183520,colorectal mucosa,Unknown,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_23,development
+Genomic DNA from CRC patients 24,GSM1183521,colorectal mucosa,Distal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_24,development
+Genomic DNA from CRC patients 25,GSM1183522,colorectal mucosa,Proximal,cancer,Male,II,GSE48684,cancer,1,GSE48684_cancer_25,development
+Genomic DNA from CRC patients 26,GSM1183523,colorectal mucosa,Proximal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_26,development
+Genomic DNA from CRC patients 27,GSM1183524,colorectal mucosa,Rectum,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_27,development
+Genomic DNA from CRC patients 28,GSM1183525,colorectal mucosa,Distal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_28,development
+Genomic DNA from CRC patients 29,GSM1183526,colorectal mucosa,Proximal,cancer,Male,II,GSE48684,cancer,1,GSE48684_cancer_29,development
+Genomic DNA from CRC patients 30,GSM1183527,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_30,development
+Genomic DNA from CRC patients 31,GSM1183528,colorectal mucosa,Rectum,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_31,development
+Genomic DNA from CRC patients 32,GSM1183529,colorectal mucosa,Distal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_32,development
+Genomic DNA from CRC patients 33,GSM1183530,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_33,development
+Genomic DNA from CRC patients 34,GSM1183531,colorectal mucosa,Proximal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_34,development
+Genomic DNA from CRC patients 35,GSM1183532,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_35,development
+Genomic DNA from CRC patients 36,GSM1183533,colorectal mucosa,Distal,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_36,development
+Genomic DNA from CRC patients 37,GSM1183534,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_37,development
+Genomic DNA from CRC patients 38,GSM1183535,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_38,development
+Genomic DNA from CRC patients 39,GSM1183536,colorectal mucosa,Transverse,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_39,development
+Genomic DNA from CRC patients 40,GSM1183537,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_40,development
+Genomic DNA from CRC patients 41,GSM1183538,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_41,development
+Genomic DNA from CRC patients 42,GSM1183539,colorectal mucosa,Proximal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_42,development
+Genomic DNA from CRC patients 43,GSM1183540,colorectal mucosa,Rectum,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_43,development
+Genomic DNA from CRC patients 44,GSM1183541,colorectal mucosa,Distal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_44,development
+Genomic DNA from CRC patients 45,GSM1183542,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_45,development
+Genomic DNA from CRC patients 46,GSM1183543,colorectal mucosa,Distal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_46,development
+Genomic DNA from CRC patients 47,GSM1183544,colorectal mucosa,Distal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_47,development
+Genomic DNA from CRC patients 48,GSM1183545,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_48,development
+Genomic DNA from CRC patients 49,GSM1183546,colorectal mucosa,Proximal,cancer,Female,I,GSE48684,cancer,1,GSE48684_cancer_49,development
+Genomic DNA from CRC patients 50,GSM1183547,colorectal mucosa,Rectum,cancer,Male,IV,GSE48684,cancer,1,GSE48684_cancer_50,development
+Genomic DNA from CRC patients 51,GSM1183548,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_51,development
+Genomic DNA from CRC patients 52,GSM1183549,colorectal mucosa,Distal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_52,development
+Genomic DNA from CRC patients 53,GSM1183550,colorectal mucosa,Distal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_53,development
+Genomic DNA from CRC patients 54,GSM1183551,colorectal mucosa,Distal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_54,development
+Genomic DNA from CRC patients 55,GSM1183552,colorectal mucosa,Proximal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_55,development
+Genomic DNA from CRC patients 56,GSM1183553,colorectal mucosa,Proximal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_56,development
+Genomic DNA from CRC patients 57,GSM1183554,colorectal mucosa,Proximal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_57,development
+Genomic DNA from CRC patients 58,GSM1183555,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_58,development
+Genomic DNA from CRC patients 59,GSM1183556,colorectal mucosa,Distal,cancer,Female,II,GSE48684,cancer,1,GSE48684_cancer_59,development
+Genomic DNA from CRC patients 60,GSM1183557,colorectal mucosa,Proximal,cancer,Female,III,GSE48684,cancer,1,GSE48684_cancer_60,development
+Genomic DNA from CRC patients 61,GSM1183558,colorectal mucosa,Proximal,cancer,Male,III,GSE48684,cancer,1,GSE48684_cancer_61,development
+Genomic DNA from CRC patients 62,GSM1183559,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_62,development
+Genomic DNA from CRC patients 63,GSM1183560,colorectal mucosa,Distal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_63,development
+Genomic DNA from CRC patients 64,GSM1183561,colorectal mucosa,Proximal,cancer,Female,IV,GSE48684,cancer,1,GSE48684_cancer_64,development
+Genomic DNA from adenoma patient 19,GSM1235135,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_19,exploratory
+Genomic DNA from adenoma patient 20,GSM1235136,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_20,exploratory
+Genomic DNA from adenoma patient 21,GSM1235137,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_21,exploratory
+Genomic DNA from adenoma patient 22,GSM1235138,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_22,exploratory
+Genomic DNA from adenoma patient 23,GSM1235139,colorectal mucosa,right,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_23,exploratory
+Genomic DNA from adenoma patient 24,GSM1235140,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_24,exploratory
+Genomic DNA from adenoma patient 25,GSM1235141,colorectal mucosa,right,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_25,exploratory
+Genomic DNA from adenoma patient 26,GSM1235142,colorectal mucosa,left,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_26,exploratory
+Genomic DNA from adenoma patient 27,GSM1235143,colorectal mucosa,right,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_27,exploratory
+Genomic DNA from adenoma patient 28,GSM1235144,colorectal mucosa,right,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_28,exploratory
+Genomic DNA from adenoma patient 29,GSM1235145,colorectal mucosa,left,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_29,exploratory
+Genomic DNA from adenoma patient 30,GSM1235146,colorectal mucosa,left,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_30,exploratory
+Genomic DNA from adenoma patient 31,GSM1235147,colorectal mucosa,right,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_31,exploratory
+Genomic DNA from adenoma patient 32,GSM1235148,colorectal mucosa,left,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_32,exploratory
+Genomic DNA from adenoma patient 33,GSM1235149,colorectal mucosa,left,adenoma,male,,GSE48684,adenoma,-1,GSE48684_adenoma_33,exploratory
+Genomic DNA from adenoma patient 34,GSM1235150,colorectal mucosa,left,adenoma,female,,GSE48684,adenoma,-1,GSE48684_adenoma_34,exploratory
+Genomic DNA from adenoma patient 35,GSM1235151,colorectal mucosa,left,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_35,exploratory
+Genomic DNA from adenoma patient 36,GSM1235152,colorectal mucosa,left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_36,exploratory
+Genomic DNA from adenoma patient 37,GSM1235153,colorectal mucosa,right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_37,exploratory
+Genomic DNA from adenoma patient 38,GSM1235154,colorectal mucosa,left,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_38,exploratory
+Genomic DNA from adenoma patient 39,GSM1235155,colorectal mucosa,right,adenoma,Male,,GSE48684,adenoma,-1,GSE48684_adenoma_39,exploratory
+Genomic DNA from adenoma patient 40,GSM1235156,colorectal mucosa,right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_40,exploratory
+Genomic DNA from adenoma patient 41,GSM1235157,colorectal mucosa,right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_41,exploratory
+Genomic DNA from adenoma patient 42,GSM1235158,colorectal mucosa,right,adenoma,Female,,GSE48684,adenoma,-1,GSE48684_adenoma_42,exploratory

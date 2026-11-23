@@ -1,0 +1,1242 @@
+[
+  {
+    "gsm": "GSM1183439",
+    "title": "Genomic DNA from normal individual 1",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183440",
+    "title": "Genomic DNA from normal individual 2",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183441",
+    "title": "Genomic DNA from normal individual 3",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183442",
+    "title": "Genomic DNA from normal individual 4",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183443",
+    "title": "Genomic DNA from normal individual 5",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183444",
+    "title": "Genomic DNA from normal individual 6",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183445",
+    "title": "Genomic DNA from adenoma patient 1",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183446",
+    "title": "Genomic DNA from adenoma patient 2",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183447",
+    "title": "Genomic DNA from adenoma patient 3",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183448",
+    "title": "Genomic DNA from adenoma patient 4",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183449",
+    "title": "Genomic DNA from adenoma patient 5",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183450",
+    "title": "Genomic DNA from adenoma patient 6",
+    "tissue": "colorectal mucosa",
+    "colon region": "Retum",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183451",
+    "title": "Genomic DNA from adenoma patient 7",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183452",
+    "title": "Genomic DNA from adenoma patient 8",
+    "tissue": "colorectal mucosa",
+    "colon region": "Left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183453",
+    "title": "Genomic DNA from CRC patients 1",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183454",
+    "title": "Genomic DNA from CRC patients 2",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "I"
+  },
+  {
+    "gsm": "GSM1183455",
+    "title": "Genomic DNA from CRC patients 3",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183456",
+    "title": "Genomic DNA from CRC patients 4",
+    "tissue": "colorectal mucosa",
+    "colon region": "Transverse",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183457",
+    "title": "Genomic DNA from CRC patients 5",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183458",
+    "title": "Genomic DNA from CRC patients 6",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183459",
+    "title": "Genomic DNA from CRC patients 7",
+    "tissue": "colorectal mucosa",
+    "colon region": "Transverse",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183460",
+    "title": "Genomic DNA from CRC patients 8",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183461",
+    "title": "Genomic DNA from CRC patients 9",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183462",
+    "title": "Genomic DNA from CRC patients 10",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183463",
+    "title": "Genomic DNA from CRC patients 11",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183464",
+    "title": "Genomic DNA from CRC patients 12",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183465",
+    "title": "Genomic DNA from CRC patients 13",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183466",
+    "title": "Genomic DNA from CRC patients 14",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183467",
+    "title": "Genomic DNA from normal individual 7",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183468",
+    "title": "Genomic DNA from normal individual 8",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183469",
+    "title": "Genomic DNA from normal individual 9",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183470",
+    "title": "Genomic DNA from normal individual 10",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183471",
+    "title": "Genomic DNA from normal individual 11",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183472",
+    "title": "Genomic DNA from normal individual 12",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183473",
+    "title": "Genomic DNA from normal individual 13",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183474",
+    "title": "Genomic DNA from normal individual 14",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183475",
+    "title": "Genomic DNA from normal individual 15",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183476",
+    "title": "Genomic DNA from normal individual 16",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183477",
+    "title": "Genomic DNA from normal individual 17",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-H",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183478",
+    "title": "Genomic DNA of normal colon sample from CRC patient 1",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183479",
+    "title": "Genomic DNA of normal colon sample from CRC patient 2",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183480",
+    "title": "Genomic DNA of normal colon sample from CRC patient 3",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183481",
+    "title": "Genomic DNA of normal colon sample from CRC patient 4",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183482",
+    "title": "Genomic DNA of normal colon sample from CRC patient 5",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183483",
+    "title": "Genomic DNA of normal colon sample from CRC patient 6",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183484",
+    "title": "Genomic DNA of normal colon sample from CRC patient 7",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183485",
+    "title": "Genomic DNA of normal colon sample from CRC patient 8",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183486",
+    "title": "Genomic DNA of normal colon sample from CRC patient 9",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183487",
+    "title": "Genomic DNA of normal colon sample from CRC patient 10",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183488",
+    "title": "Genomic DNA of normal colon sample from CRC patient 11",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183489",
+    "title": "Genomic DNA of normal colon sample from CRC patient 12",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183490",
+    "title": "Genomic DNA of normal colon sample from CRC patient 13",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183491",
+    "title": "Genomic DNA of normal colon sample from CRC patient 14",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183492",
+    "title": "Genomic DNA of normal colon sample from CRC patient 15",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183493",
+    "title": "Genomic DNA of normal colon sample from CRC patient 16",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183494",
+    "title": "Genomic DNA of normal colon sample from CRC patient 17",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183495",
+    "title": "Genomic DNA of normal colon sample from CRC patient 18",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183496",
+    "title": "Genomic DNA of normal colon sample from CRC patient 19",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183497",
+    "title": "Genomic DNA of normal colon sample from CRC patient 20",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183498",
+    "title": "Genomic DNA of normal colon sample from CRC patient 21",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183499",
+    "title": "Genomic DNA of normal colon sample from CRC patient 22",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183500",
+    "title": "Genomic DNA of normal colon sample from CRC patient 23",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183501",
+    "title": "Genomic DNA of normal colon sample from CRC patient 24",
+    "tissue": "colorectal mucosa",
+    "colon region": "colon",
+    "disease status": "normal-C",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183502",
+    "title": "Genomic DNA from adenoma patient 9",
+    "tissue": "colorectal mucosa",
+    "colon region": "Left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183503",
+    "title": "Genomic DNA from adenoma patient 10",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183504",
+    "title": "Genomic DNA from adenoma patient 11",
+    "tissue": "colorectal mucosa",
+    "colon region": "Left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183505",
+    "title": "Genomic DNA from adenoma patient 12",
+    "tissue": "colorectal mucosa",
+    "colon region": "Left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183506",
+    "title": "Genomic DNA from adenoma patient 13",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183507",
+    "title": "Genomic DNA from adenoma patient 14",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183508",
+    "title": "Genomic DNA from adenoma patient 15",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183509",
+    "title": "Genomic DNA from adenoma patient 16",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183510",
+    "title": "Genomic DNA from adenoma patient 17",
+    "tissue": "colorectal mucosa",
+    "colon region": "Right",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1183511",
+    "title": "Genomic DNA from adenoma patient 18",
+    "tissue": "colorectal mucosa",
+    "colon region": "Left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1183512",
+    "title": "Genomic DNA from CRC patients 15",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "I"
+  },
+  {
+    "gsm": "GSM1183513",
+    "title": "Genomic DNA from CRC patients 16",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183514",
+    "title": "Genomic DNA from CRC patients 17",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183515",
+    "title": "Genomic DNA from CRC patients 18",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183516",
+    "title": "Genomic DNA from CRC patients 19",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183517",
+    "title": "Genomic DNA from CRC patients 20",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183518",
+    "title": "Genomic DNA from CRC patients 21",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183519",
+    "title": "Genomic DNA from CRC patients 22",
+    "tissue": "colorectal mucosa",
+    "colon region": "Unknown",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183520",
+    "title": "Genomic DNA from CRC patients 23",
+    "tissue": "colorectal mucosa",
+    "colon region": "Unknown",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183521",
+    "title": "Genomic DNA from CRC patients 24",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183522",
+    "title": "Genomic DNA from CRC patients 25",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183523",
+    "title": "Genomic DNA from CRC patients 26",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183524",
+    "title": "Genomic DNA from CRC patients 27",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183525",
+    "title": "Genomic DNA from CRC patients 28",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183526",
+    "title": "Genomic DNA from CRC patients 29",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183527",
+    "title": "Genomic DNA from CRC patients 30",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183528",
+    "title": "Genomic DNA from CRC patients 31",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183529",
+    "title": "Genomic DNA from CRC patients 32",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183530",
+    "title": "Genomic DNA from CRC patients 33",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183531",
+    "title": "Genomic DNA from CRC patients 34",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183532",
+    "title": "Genomic DNA from CRC patients 35",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183533",
+    "title": "Genomic DNA from CRC patients 36",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183534",
+    "title": "Genomic DNA from CRC patients 37",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183535",
+    "title": "Genomic DNA from CRC patients 38",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183536",
+    "title": "Genomic DNA from CRC patients 39",
+    "tissue": "colorectal mucosa",
+    "colon region": "Transverse",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183537",
+    "title": "Genomic DNA from CRC patients 40",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183538",
+    "title": "Genomic DNA from CRC patients 41",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183539",
+    "title": "Genomic DNA from CRC patients 42",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183540",
+    "title": "Genomic DNA from CRC patients 43",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183541",
+    "title": "Genomic DNA from CRC patients 44",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183542",
+    "title": "Genomic DNA from CRC patients 45",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183543",
+    "title": "Genomic DNA from CRC patients 46",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183544",
+    "title": "Genomic DNA from CRC patients 47",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183545",
+    "title": "Genomic DNA from CRC patients 48",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183546",
+    "title": "Genomic DNA from CRC patients 49",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "I"
+  },
+  {
+    "gsm": "GSM1183547",
+    "title": "Genomic DNA from CRC patients 50",
+    "tissue": "colorectal mucosa",
+    "colon region": "Rectum",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183548",
+    "title": "Genomic DNA from CRC patients 51",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183549",
+    "title": "Genomic DNA from CRC patients 52",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183550",
+    "title": "Genomic DNA from CRC patients 53",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183551",
+    "title": "Genomic DNA from CRC patients 54",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183552",
+    "title": "Genomic DNA from CRC patients 55",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183553",
+    "title": "Genomic DNA from CRC patients 56",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183554",
+    "title": "Genomic DNA from CRC patients 57",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183555",
+    "title": "Genomic DNA from CRC patients 58",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183556",
+    "title": "Genomic DNA from CRC patients 59",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "II"
+  },
+  {
+    "gsm": "GSM1183557",
+    "title": "Genomic DNA from CRC patients 60",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183558",
+    "title": "Genomic DNA from CRC patients 61",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Male",
+    "Stage": "III"
+  },
+  {
+    "gsm": "GSM1183559",
+    "title": "Genomic DNA from CRC patients 62",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183560",
+    "title": "Genomic DNA from CRC patients 63",
+    "tissue": "colorectal mucosa",
+    "colon region": "Distal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1183561",
+    "title": "Genomic DNA from CRC patients 64",
+    "tissue": "colorectal mucosa",
+    "colon region": "Proximal",
+    "disease status": "cancer",
+    "gender": "Female",
+    "Stage": "IV"
+  },
+  {
+    "gsm": "GSM1235135",
+    "title": "Genomic DNA from adenoma patient 19",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235136",
+    "title": "Genomic DNA from adenoma patient 20",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235137",
+    "title": "Genomic DNA from adenoma patient 21",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235138",
+    "title": "Genomic DNA from adenoma patient 22",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235139",
+    "title": "Genomic DNA from adenoma patient 23",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235140",
+    "title": "Genomic DNA from adenoma patient 24",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235141",
+    "title": "Genomic DNA from adenoma patient 25",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235142",
+    "title": "Genomic DNA from adenoma patient 26",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235143",
+    "title": "Genomic DNA from adenoma patient 27",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235144",
+    "title": "Genomic DNA from adenoma patient 28",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235145",
+    "title": "Genomic DNA from adenoma patient 29",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235146",
+    "title": "Genomic DNA from adenoma patient 30",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235147",
+    "title": "Genomic DNA from adenoma patient 31",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235148",
+    "title": "Genomic DNA from adenoma patient 32",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235149",
+    "title": "Genomic DNA from adenoma patient 33",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "male"
+  },
+  {
+    "gsm": "GSM1235150",
+    "title": "Genomic DNA from adenoma patient 34",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "female"
+  },
+  {
+    "gsm": "GSM1235151",
+    "title": "Genomic DNA from adenoma patient 35",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1235152",
+    "title": "Genomic DNA from adenoma patient 36",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1235153",
+    "title": "Genomic DNA from adenoma patient 37",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1235154",
+    "title": "Genomic DNA from adenoma patient 38",
+    "tissue": "colorectal mucosa",
+    "colon region": "left",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1235155",
+    "title": "Genomic DNA from adenoma patient 39",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "Male"
+  },
+  {
+    "gsm": "GSM1235156",
+    "title": "Genomic DNA from adenoma patient 40",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1235157",
+    "title": "Genomic DNA from adenoma patient 41",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  },
+  {
+    "gsm": "GSM1235158",
+    "title": "Genomic DNA from adenoma patient 42",
+    "tissue": "colorectal mucosa",
+    "colon region": "right",
+    "disease status": "adenoma",
+    "gender": "Female"
+  }
+]

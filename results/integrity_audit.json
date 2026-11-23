@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "recomputed_metric_rows": 162,
+  "internal_predictions": 2187,
+  "external_predictions": 3186,
+  "exploratory_predictions": 1782,
+  "checks": [
+    "Every internal/external metric recomputed from saved predictions",
+    "Identical outer test specimens across all configurations",
+    "No recorded development group crosses outer folds",
+    "Each CpG panel has exactly k unique cg IDs",
+    "Frozen code/config hashes unchanged during experiment",
+    "All final parameters agree with pre-external freeze"
+  ],
+  "limitation": "These checks validate the saved analysis structure, not the unknown biological donor map or original source-level preprocessing."
+}

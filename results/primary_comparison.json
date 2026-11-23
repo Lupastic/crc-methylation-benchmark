@@ -1,0 +1,45 @@
+{
+  "replicates_requested": 2000,
+  "replicates_valid": 2000,
+  "n_inferred_clusters": 84,
+  "method": "Paired cluster percentile bootstrap of fixed external predictions. Clusters inferred conservatively from title country/histology/numeric ID; unresolved names remain separate. Conditional on fitted models and observed cohort; does not include retraining/model-selection uncertainty. Two predeclared exploratory contrasts, no multiplicity-adjusted hypothesis claims.",
+  "comparisons": [
+    {
+      "model": "LR",
+      "k": 100,
+      "selector": "MI",
+      "baseline": "DeltaBeta",
+      "metric": "balanced_accuracy",
+      "difference": 0.0060975609756097615,
+      "ci95_low": 0.0,
+      "ci95_high": 0.01948051948051943
+    },
+    {
+      "model": "LR",
+      "k": 100,
+      "selector": "L2coef",
+      "baseline": "DeltaBeta",
+      "metric": "balanced_accuracy",
+      "difference": -0.03556910569105687,
+      "ci95_low": -0.08509978991596641,
+      "ci95_high": 0.008683667480295788
+    }
+  ],
+  "selector_ci95": {
+    "DeltaBeta": {
+      "point": 0.9417344173441734,
+      "low": 0.8923730794250305,
+      "high": 0.9814814814814814
+    },
+    "MI": {
+      "point": 0.9478319783197832,
+      "low": 0.8996194494690163,
+      "high": 0.9870171495171495
+    },
+    "L2coef": {
+      "point": 0.9061653116531165,
+      "low": 0.8426901211111404,
+      "high": 0.9588758116883117
+    }
+  }
+}

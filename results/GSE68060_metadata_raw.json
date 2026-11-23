@@ -1,0 +1,842 @@
+[
+  {
+    "gsm": "GSM1662008",
+    "title": "IVD",
+    "type": "IVD",
+    "tissue": "IVD",
+    "country": "IVD"
+  },
+  {
+    "gsm": "GSM1662009",
+    "title": "ESCT022",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662010",
+    "title": "ESST013",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662011",
+    "title": "FIST04",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662012",
+    "title": "ESST037",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662013",
+    "title": "ESCT007",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662014",
+    "title": "ESCMT001",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662015",
+    "title": "ESSN006",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662016",
+    "title": "ESCT005",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662017",
+    "title": "ESCT004",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662018",
+    "title": "ESMSIN004",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662019",
+    "title": "ESCT043",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662020",
+    "title": "ESST006",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662021",
+    "title": "ESCT034",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662022",
+    "title": "ESSN008",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662023",
+    "title": "FIST05",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662024",
+    "title": "ESSN003",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662025",
+    "title": "ESSMN",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662026",
+    "title": "ESST002",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662027",
+    "title": "ESSPT001",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662028",
+    "title": "ESST005_",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662029",
+    "title": "ESSMT003",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662030",
+    "title": "ESMSIT008",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662031",
+    "title": "ESCN008",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662032",
+    "title": "ESCT013",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662033",
+    "title": "ESCN010",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662034",
+    "title": "ESST030",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662035",
+    "title": "FIST06",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662036",
+    "title": "ESCN003",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662037",
+    "title": "ESSMT001",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662038",
+    "title": "ESCT008",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662039",
+    "title": "ESCT010",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662040",
+    "title": "ESMSIT004",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662041",
+    "title": "ESMSIN006",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662042",
+    "title": "ESCN006",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662043",
+    "title": "ESCT033",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662044",
+    "title": "ESCT002",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662045",
+    "title": "ESCT030",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662046",
+    "title": "ESSN009",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662047",
+    "title": "FIST07",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662048",
+    "title": "ESCT021",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662049",
+    "title": "ESMSIN001",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662050",
+    "title": "ESSN001",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662051",
+    "title": "ESSN007",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662052",
+    "title": "ESSN002",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662053",
+    "title": "ESMSIT009",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662054",
+    "title": "ESCT026",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662055",
+    "title": "ESST023",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662056",
+    "title": "ESSN010",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662057",
+    "title": "ESCN012",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662058",
+    "title": "ESST031",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662059",
+    "title": "FIST08",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662060",
+    "title": "ESCPT001",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662061",
+    "title": "ESCT012",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662062",
+    "title": "ESCMT003",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662063",
+    "title": "ESST008",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662064",
+    "title": "ESST004",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662065",
+    "title": "ESST010",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662066",
+    "title": "ESCN005",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662067",
+    "title": "ESCT042",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662068",
+    "title": "ESST036",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662069",
+    "title": "ESCT036",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662070",
+    "title": "FIST01",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662071",
+    "title": "FIST09",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662072",
+    "title": "ESSN004",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662073",
+    "title": "ESSN012",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662074",
+    "title": "ESMSIT002",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662075",
+    "title": "ESMSIT006",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662076",
+    "title": "ESCT011",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662077",
+    "title": "ESCT027",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662078",
+    "title": "ESCT041",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662079",
+    "title": "ESMSIN002",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662080",
+    "title": "ESCT001",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662081",
+    "title": "ESCN009",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662082",
+    "title": "FIST02",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662083",
+    "title": "FIST10",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662084",
+    "title": "ESST038",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662085",
+    "title": "ESST001",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662086",
+    "title": "ESMSIN005",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662087",
+    "title": "ESMSIT001",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662088",
+    "title": "ESCT015",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662089",
+    "title": "ESMSIN003",
+    "type": "MSI",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662090",
+    "title": "ESST011",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662091",
+    "title": "ESMSIT005",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662092",
+    "title": "ESSMT002",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662093",
+    "title": "ESCT035",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662094",
+    "title": "FIST03",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662095",
+    "title": "FIST11",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662096",
+    "title": "ESCN001",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662097",
+    "title": "ESSN005",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662098",
+    "title": "ESMSIT007",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662099",
+    "title": "ESST019",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662100",
+    "title": "ESST009",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662101",
+    "title": "ESMSIT010",
+    "type": "MSI",
+    "tissue": "Tumor",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662102",
+    "title": "ESCN007",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662103",
+    "title": "ESCN002",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Spain"
+  },
+  {
+    "gsm": "GSM1662104",
+    "title": "IVD_1",
+    "type": "IVD",
+    "tissue": "IVD",
+    "country": "IVD"
+  },
+  {
+    "gsm": "GSM1662105",
+    "title": "FICT02",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662106",
+    "title": "FISN01",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662107",
+    "title": "FIST12",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662108",
+    "title": "FICT03",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662109",
+    "title": "FISN02",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662110",
+    "title": "FIST13",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662111",
+    "title": "FICT04",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662112",
+    "title": "FISN03",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662113",
+    "title": "FIST14",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662114",
+    "title": "FICT05",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662115",
+    "title": "FISN04",
+    "type": "Serrated",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662116",
+    "title": "FIST15",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662117",
+    "title": "FICT06",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662118",
+    "title": "FICN01",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662119",
+    "title": "FIST16",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662120",
+    "title": "FICT07",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662121",
+    "title": "FICN02",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662122",
+    "title": "FIST17",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662123",
+    "title": "FICT08",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662124",
+    "title": "FICN03",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662125",
+    "title": "FIST18",
+    "type": "Serrated",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662126",
+    "title": "FICT09",
+    "type": "Conventional",
+    "tissue": "Tumor",
+    "country": "Finland"
+  },
+  {
+    "gsm": "GSM1662127",
+    "title": "FICN04",
+    "type": "Conventional",
+    "tissue": "Normal",
+    "country": "Finland"
+  }
+]

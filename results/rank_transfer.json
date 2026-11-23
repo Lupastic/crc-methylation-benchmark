@@ -1,0 +1,24 @@
+{
+  "overall": {
+    "n_configurations": 27,
+    "spearman_rho": -0.18096701841848228
+  },
+  "by_k": [
+    {
+      "k": 30,
+      "n_configurations": 9,
+      "spearman_rho": 0.3067226890756303
+    },
+    {
+      "k": 100,
+      "n_configurations": 9,
+      "spearman_rho": -0.33194194295349533
+    },
+    {
+      "k": 500,
+      "n_configurations": 9,
+      "spearman_rho": -0.619252282479235
+    }
+  ],
+  "interpretation": "Descriptive Spearman correlation including tied ranks; BA rounded to12 decimal places only for rank ties to remove floating-point noise, not for reported metrics. Configurations share samples and are dependent; no p-values or independent-method inferential claims."
+}

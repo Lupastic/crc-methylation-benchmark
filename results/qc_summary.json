@@ -1,0 +1,60 @@
+{
+  "raw_cohorts": [
+    {
+      "dataset": "GSE48684",
+      "n_samples": 147,
+      "n_probes": 485577,
+      "missing_cells": 94512,
+      "missing_fraction": 0.0013240717239700482,
+      "beta_min": 0.0,
+      "beta_max": 0.9958090782165527,
+      "duplicate_profiles": 0,
+      "raw_bytes": 296204043,
+      "raw_sha256": "21768fdeceede702c471cdbafd98fbdd04e88c55188a824f0587156329355e37",
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48684/matrix/GSE48684_series_matrix.txt.gz?download=1"
+    },
+    {
+      "dataset": "GSE68060",
+      "n_samples": 120,
+      "n_probes": 472139,
+      "missing_cells": 479733,
+      "missing_fraction": 0.008467368719804972,
+      "beta_min": 1.0953064702334814e-05,
+      "beta_max": 0.9992712736129761,
+      "duplicate_profiles": 0,
+      "raw_bytes": 462294792,
+      "raw_sha256": "06a3f5014968ee016dfaa170afa51aec96da35bf1e6feeea9df8c4af71a8adf8",
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68060/matrix/GSE68060_series_matrix.txt.gz?download=true"
+    }
+  ],
+  "common_cg_probes": 469160,
+  "development_samples": 81,
+  "development_cancer": 64,
+  "development_healthy_normal": 17,
+  "external_samples": 118,
+  "external_cancer": 82,
+  "external_normal": 36,
+  "external_inferred_clusters": 84,
+  "excluded_IVD": 2,
+  "exploratory_counts": {
+    "adenoma": 42,
+    "normal-C": 24
+  },
+  "external_unresolved_titles": [
+    "ESSMN"
+  ],
+  "grouping_limitation": "GSE48684 cancer and normal-C equal title numbers are not donor pairs (sex discordance); normal-C excluded from training. Development specimen labels are unique, true donor identity unverified. External groups are conservative title-derived heuristic, not confirmed UUIDs.",
+  "development_sex_counts": {
+    "Female": {
+      "cancer": 41,
+      "normal-H": 6
+    },
+    "Male": {
+      "cancer": 23,
+      "normal-H": 11
+    }
+  },
+  "source_preprocessing": "GSE48684 submitted beta values previously SWAN normalized and ComBat adjusted across source study. Our train-only guarantees concern downstream steps only; original preprocessing was not refit within our CV. GSE68060 submitted GenomeStudio beta values.",
+  "probe_annotation_limitation": "Only cg-prefixed shared probe IDs retained; no sex-chromosome, SNP-overlap or cross-reactive probe filtering; no gene annotation claim.",
+  "platform": "Illumina HumanMethylation450 BeadChip; processed submitted beta matrices; no additional joint normalization or batch correction; no IDAT-level QC."
+}
